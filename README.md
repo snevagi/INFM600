@@ -55,9 +55,9 @@ Merging the focal data with the supporting Quality of Life data will easily allo
 
 ![alt tag](https://github.com/snevagi/INFM600/blob/master/Income_vs_QOL.png)
 
-**Do the home health teams treat patients in a timely manner more in the state where average age is greater than others?**
+**How does age relate to the average response time per State for the Home Health Teams?**
 
-Merging the focal data with supporting Healthcare data will allow to analyze this hypothesis. Plotting the variables show that home health care teams pay timely attention in states where the average age is greater. This may be because elder people need more health related assistance. We can see that the graph is almost constant for the middle range of age groups.
+Merging the focal data with supporting Healthcare data will allow to analyze this hypothesis. Plotting the variables show that home health care teams pay timely attention in states where the average age is greater. This is mostly likely due to the fact that States that are less populated have less old people in them. Therefore the infrastructure needed to care for them isn’t as robust as it would be in states with older people living in them. We can see a gap when it comes to middle aged individuals.
 
 ![alt tag](https://github.com/snevagi/INFM600/blob/master/Age_vs_care_in_timely_manner.png)
 
@@ -88,10 +88,11 @@ Data.gov U.S. Department of Health & Human Services (2016) Home Health Care - St
 
 Data.gov State of Maryland (2016) Choose Maryland: Compare States - Quality Of Life [Data set CSV file]. Retrieved from http://catalog.data.gov/dataset/choose-maryland-compare-states-quality-of-life-2798c. March 19,2016
 
-Nevagi, S. (2016). IncomeAndQuality [Data CSV file]. Available from https://github.com/snevagi/INFM600/.
+Nevagi, S., Piscetelli, M. (2016). IncomeAndQuality [Data CSV file]. Available from https://github.com/snevagi/INFM600/.
 
 -------
 Author
 -------
 
 Suparna Nevagi
+Michael Piscetelli
