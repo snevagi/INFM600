@@ -36,7 +36,13 @@ This data set is the key which contains the names of all states and their abbrev
 
 This data set is a combination of the data from Choose_Maryland___Compare_States_-_Demographics.csv, Home_Health_Care_-_State_by_State_Data.csv, Choose_Maryland___Compare_States_-_Quality_Of_Life.csv and states.csv based on all the states.
 
-
+---------------
+Data Statistics
+---------------
+52 unique states
+</br>Population for 2015, 2010 and 2000 for each states
+</br>Median age range for states : 30-45 years
+</br>Well being index range: 58-65
 
 ---------------
 Analysis
