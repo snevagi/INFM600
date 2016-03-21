@@ -53,7 +53,7 @@ Merging all the supporting dataset files into the focal dataset file will allow 
 
 Merging the focal data with the supporting Quality of Life data will easily allow us to analyze this question. Various tools and techniques can be used to analyze this research question and develop a hypothesis. After plotting the graph for Well Being Index and Per Capita Income, we can see that they are linearly proportional. But to come to a conclusiopn, we will need to run statistical tests.
 
-![alt tag]()
+![alt tag](https://github.com/snevagi/INFM600/blob/master/Income_vs_QOL.png)
 
 **Do the home health teams treat patients in a timely manner more in the state where average age is greater than others?**
 
@@ -82,13 +82,13 @@ Acknowledgements
 References
 ----------
 
-The Geographic Information Systems Division. (2015). Presubmission Community Meetings [Data set CSV file]. Retrieved from https://data.howardcountymd.gov/. October 21, 2015
+Data.gov State of Maryland (2016) Choose Maryland: Compare States - Demographics [Data set CSV file]. Retrieved from http://catalog.data.gov/dataset/choose-maryland-compare-states-demographics. March 19,2016
 
-The Geographic Information Systems Division (2014) Age Restricted Houses [Data set CSV file]. Retrieved from https://data.howardcountymd.gov/. October 21, 2015
+Data.gov U.S. Department of Health & Human Services (2016) Home Health Care - State by State Data [Data set CSV file]. Retrieved from http://catalog.data.gov/dataset/home-health-care-state-by-state-data. March 19,2016
 
-The Geographic Information Systems Division (2014) Age Restricted Apartments [Data set CSV file]. Retrieved from https://data.howardcountymd.gov/. October 21, 2015
+Data.gov State of Maryland (2016) Choose Maryland: Compare States - Quality Of Life [Data set CSV file]. Retrieved from http://catalog.data.gov/dataset/choose-maryland-compare-states-quality-of-life-2798c. March 19,2016
 
-Gulati, G. (2015). Presubmission_meetings_and_Age_restricted_homes [Data CSV file]. Available from https://github.com/gavishgulati/INFM600/.
+Nevagi, S. (2016). IncomeAndQuality [Data CSV file]. Available from https://github.com/snevagi/INFM600/.
 
 -------
 Author
