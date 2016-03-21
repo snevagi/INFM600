@@ -53,12 +53,13 @@ Merging all the supporting dataset files into the focal dataset file will allow 
 
 Merging the focal data with the supporting Quality of Life data will easily allow us to analyze this question. Various tools and techniques can be used to analyze this research question and develop a hypothesis. After plotting the graph for Well Being Index and Per Capita Income, we can see that they are linearly proportional. But to come to a conclusiopn, we will need to run statistical tests.
 
-
+![alt tag]()
 
 **Do the home health teams treat patients in a timely manner more in the state where average age is greater than others?**
 
 Merging the focal data with supporting Healthcare data will allow to analyze this hypothesis. Plotting the variables show that home health care teams pay timely attention in states where the average age is greater. This may be because elder people need more health related assistance. We can see that the graph is almost constant for the middle range of age groups.
 
+![alt tag](https://github.com/snevagi/INFM600/blob/master/Age_vs_care_in_timely_manner.png)
 
 ------- 
 License
